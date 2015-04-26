@@ -43,6 +43,10 @@ gulp.task('gulpDocDown', function(){
 gulp.task('default', ['gulpDocDown']);
 ```
 
+## Snapshots
+
+![style-default](https://www.npmjs.com/package/docdown)
+
 ## License
 
 [MIT License](http://en.wikipedia.org/wiki/MIT_License)
