@@ -2,6 +2,10 @@
 
 gulp-docdown is a plugin to [docdown](https://www.npmjs.com/package/docdown) :)
 
+## Snapshots
+
+![style-default](https://raw.githubusercontent.com/xunuo/gulp-docdown/master/snapshots/style-default.png)
+
 ## Install
 
 ```
@@ -43,9 +47,6 @@ gulp.task('gulpDocDown', function(){
 gulp.task('default', ['gulpDocDown']);
 ```
 
-## Snapshots
-
-![style-default](https://raw.githubusercontent.com/xunuo/gulp-docdown/master/snapshots/style-default.png)
 
 ## License
 
