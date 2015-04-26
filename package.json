@@ -2,7 +2,7 @@
   "name": "gulp-docdown",
   "description": "A gulp plugin for docdown, Thank Docdown :)",
   "author": "xunuo <i@xunuo.com>",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "repository": "xunuo/gulp-docdown",
   "dependencies" : {
     "through-gulp" : "0.3.8",
