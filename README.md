@@ -13,10 +13,12 @@ npm install gulp-docdown gulp-rename
 ```javascript
 var gulp = require('gulp'),
     gulpDocDown = require('gulp-docdown'),
-    rename = require('gulp-rename');
+    rename = require('gulp-rename')
+    ;
 
 gulp.task('gulpDocDown', function(){
-    var outputType = 'html';    // 'html' or 'md'
+    // 'html' or 'md'
+    var outputType = 'html';
     gulp.src('./*.js')
     .pipe(gulpDocDown({
         // {fileName} will replace by file name, define for docDown.

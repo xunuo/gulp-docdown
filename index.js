@@ -86,9 +86,6 @@ function gulpDocDown(args) {
         // output file
         this.push(file);
 
-        // for final callback
-        destDir= file.path;
-
         callback();
     }, function (callback) {
         callback();
