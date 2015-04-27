@@ -5,9 +5,9 @@
   "version": "0.1.11",
   "repository": "xunuo/gulp-docdown",
   "dependencies" : {
-    "through-gulp" : "0.3.8",
-    "docdown" : "0.2.0",
-    "showdown" : "0.5.0",
-    "ejs" : "2.3.1"
+    "through-gulp" : "~0.3.8",
+    "docdown" : "~0.2.0",
+    "showdown" : "~0.5.0",
+    "ejs" : "~2.3.1"
   }
 }
